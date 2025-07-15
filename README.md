@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad H. Jibreel</h1>
+<h1 align="center">Hi 👋, I'm Muhammath Jibreel</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+|+Java+Spring+Boot;DSA+%7C+Python+%7C+AI+Grinder;Building+My+Way+to+Top+MNCs" alt="Typing SVG" />
 </p>
@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me
 
-🌟 I’m **Muhammad H. Jibreel**, dedicated to mastering full-stack development and AI integration.  
+🌟 I’m **Muhammath Jibreel**, dedicated to mastering full-stack development and AI integration.  
 🔥 On a mission to crack top-tier MNCs through continuous learning and disciplined grind.
 
 My current 52-week roadmap focuses on:
@@ -98,8 +98,9 @@ My current 52-week roadmap focuses on:
 ---
 
 > 💬 “Work hard in silence, let success make the noise.”  
-> **— Muhammad H. Jibreel**
+> **— Muhammath Jibreel**
 
 <p align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400px" />
 </p>
+
