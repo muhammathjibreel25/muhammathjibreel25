@@ -1,106 +1,79 @@
 <h1 align="center">Hi 👋, I'm Muhammath Jibreel</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+|+Java+Spring+Boot;DSA+%7C+Python+%7C+AI+Grinder;Building+My+Way+to+Top+MNCs" alt="Typing SVG" />
-</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="160px" />
-</p>
-
----
-
-## 🙋‍♂️ About Me
-
-🌟 I’m **Muhammath Jibreel**, dedicated to mastering full-stack development and AI integration.  
-🔥 On a mission to crack top-tier MNCs through continuous learning and disciplined grind.
-
-My current 52-week roadmap focuses on:
-- 🚀 Java Spring Boot backend systems  
-- 🌐 Frontend with HTML, CSS, JavaScript, React  
-- 📊 C → C++ → DSA → Python for bridge-building skills  
-- 🤖 AI/ML fundamentals using Python & Scikit-Learn  
-- 🧠 CS Core: DBMS, OS, Computer Networks, OOPs  
-- 🗣️ Aptitude, Soft Skills, UI/UX essentials, Mock interviews  
-
-📌 Values: consistency, resilience, growth — every line of code is a step forward.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
-</p>
-
----
-
-## 💻 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="320px" />
-</p>
-
----
-
-## 🧠 Competitive Programming
-
-<p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Aspiring+Java+Full+Stack+Developer;Learning+DSA%2C+C%2FC%2B%2B%2C+UI%2FUX+Design;Future+Tech+Architect+In+Progress" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="360px" />
+---
+
+### 🌟 About Me:
+- 👨‍💻 I’m currently focused on:
+  - Core Java Full Stack Development (Spring Boot)
+  - C ➤ C++ ➤ DSA (in C++)
+  - UI/UX Design
+- 📚 Roadmap: 52-week journey to crack top MNCs 🚀
+- 🤖 Planning to explore AI/ML, System Design, and Flutter soon.
+- 📬 Reach me: **muhammathjibreel22@gmail.com**
+
+---
+
+### 🌐 Connect With Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammath-jibreel-2b5a42294" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="mailto:muhammathjibreel22@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/muhammathjibree1" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" height="30" width="30" />
+  </a>
 </p>
 
 ---
 
-## 📈 GitHub Stats & Contributions
+### 💻 Tech Stack:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-DD0031?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammathjibreel25&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammathjibreel25&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammathjibreel25&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammathjibreel25&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧩 Contribution Graph
-
+### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammathjibreel25&theme=react-dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammathjibreel25&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
-## 📫 Let's Connect
-
-[![Gmail](https://img.shields.io/badge/-your-email@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+### 🔥 Contribution Graph:
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammathjibreel25&bg_color=0d1117&color=00ffe4&line=00ffe4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-> 💬 “Work hard in silence, let success make the noise.”  
-> **— Muhammath Jibreel**
+### 🚀 Let’s Connect and Code Together!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400px" />
-</p>
+> *“Success is the sum of small efforts, repeated every day.”*
 
